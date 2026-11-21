@@ -21,6 +21,18 @@ Generate clickable titles without being clickbait Built for creators, with no ac
 2/ Generate clickable titles without being clickbait Built for creators, with no account or subscription required.
 3/ $7, no signup: https://LinuxGuru999.github.io/shotgun-youtube-title-prompts/
 
+## Directory listing (Product Hunt / Uneed / Peerlist / SaaSHub)
+Name: YouTube Title Prompts
+Tagline: Generate clickable titles without being clickbait
+Description: Generate clickable titles without being clickbait Built for creators, with no account or subscription required.
+One-line pitch: Generate clickable titles without being clickbait No signup, $7, instant download.
+Link: https://LinuxGuru999.github.io/shotgun-youtube-title-prompts/
+
+## Email / DM (warm list)
+Subject: A small tool for creators
+Body: Hey — I made YouTube Title Prompts because generate clickable titles without being clickbait. No signup, $7, instant download. If it's useful: https://LinuxGuru999.github.io/shotgun-youtube-title-prompts/. If not, tell me what you actually need.
+
 ## Notes
 - Post manually from your own account; do not mass-post.
 - Space posts 2-3 days apart and tailor the tone.
+- Add ?src=<portal> to the storefront URL to attribute traffic.
